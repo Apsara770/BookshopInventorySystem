@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\bin\Debug\BMSys.exe.config
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\bin\Debug\BMSys.exe
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\bin\Debug\BMSys.pdb
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.exe
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.pdb
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.splash.resources
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.Login.resources
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.books.resources
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.users.resources
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.billing.resources
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.dashboard.resources
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.admincs.resources
+C:\Users\ADMIN\Desktop\Group project\BMSys\BMSys\obj\Debug\BMSys.sales.resources
